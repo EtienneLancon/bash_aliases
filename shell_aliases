@@ -1,7 +1,6 @@
 alias ll='ls -hAlt'
 alias lc='ls -hAlc'
 alias l='ls -d */'
-alias s='sudo !!'
 alias rmr='rm -R'
 alias aload='systemctl apache2 reload'
 alias astart='systemctl apache2 restart'
