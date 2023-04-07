@@ -6,3 +6,4 @@ alias aload='systemctl apache2 reload'
 alias astart='systemctl apache2 restart'
 alias fname='find -name'
 alias hgrep='history | grep'
+alias maj="sudo apt update && sudo apt upgrade"
