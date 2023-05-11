@@ -1,0 +1,10 @@
+alias prune='docker system prune'
+alias rmi='docker rmi'
+alias img='docker images'
+alias up='docker compose up'
+alias down='docker compose down'
+alias dexec='docker exec -it'
+alias drun='docker run'
+alias dstop='docker stop'
+alias dps='docker ps'
+
