@@ -1,4 +1,4 @@
-alias prune='docker system prune'
+alias prune='docker system prune -f'
 alias rmi='docker rmi'
 alias img='docker images'
 alias up='docker compose up'
