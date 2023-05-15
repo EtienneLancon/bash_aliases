@@ -7,4 +7,5 @@ alias dexec='docker exec -it'
 alias drun='docker run'
 alias dstop='docker stop'
 alias dps='docker ps'
+alias dredo='docker compose down && docker compose up -d'
 
